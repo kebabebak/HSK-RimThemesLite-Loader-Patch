@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>hsk.rimthemeslite.loader.patch</packageId>
+  <name>HSK RimThemesLite Loader Patch</name>
+  <modVersion>1.0</modVersion>
+  <author>kebabebak</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>Fixes RimThemesLite loader progress text errors on RimWorld 1.5 ("Could not resolve symbol 1/2 for Completing loading").</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>skyarkhangel.RimThemesLite</packageId>
+      <displayName>RimThemesLite</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>skyarkhangel.RimThemesLite</li>
+  </loadAfter>
+</ModMetaData>
