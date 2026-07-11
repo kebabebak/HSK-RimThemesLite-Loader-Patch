@@ -1,5 +1,5 @@
 > [!NOTE]
-> The patch is outdated. The bug was fixed in 
+> The patch is outdated. The bug was fixed in https://github.com/skyarkhangel/Hardcore-SK/pull/4106
 
 # HSK RimThemesLite Loader Patch
 
