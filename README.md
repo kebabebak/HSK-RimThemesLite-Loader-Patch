@@ -1,3 +1,6 @@
+> [!NOTE]
+> The patch is outdated. The bug was fixed in https://github.com/skyarkhangel/Hardcore-SK/pull/4105
+
 # HSK RimThemesLite Loader Patch
 
 Patch for RimWorld HSK 1.5: fixes RimThemesLite custom loader progress text.
